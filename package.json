@@ -1,0 +1,14 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariofan756",
+  "license": "ISC",
+  "dependencies": {
+    "@ya.praktikum/react-developer-burger-ui-components": "^1.13.1"
+  }
+}
